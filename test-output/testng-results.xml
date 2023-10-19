@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-19T05:15:49 UTC" name="Default suite" finished-at="2023-10-19T05:16:05 UTC" duration-ms="16649">
+    <groups>
+    </groups>
+    <test started-at="2023-10-19T05:15:49 UTC" name="Default test" finished-at="2023-10-19T05:16:05 UTC" duration-ms="16649">
+      <class name="com.SEGB.Percy.HomePage">
+        <test-method signature="homepage()[pri:0, instance:com.SEGB.Percy.HomePage@59662a0b]" started-at="2023-10-19T05:15:49 UTC" name="homepage" finished-at="2023-10-19T05:16:05 UTC" duration-ms="16570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+      </class> <!-- com.SEGB.Percy.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
